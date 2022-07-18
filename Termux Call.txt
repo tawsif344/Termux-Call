@@ -1,2 +1,2 @@
-$ termux-telephony-call 017
 $ pkg install termux-api
+$ termux-telephony-call 017
